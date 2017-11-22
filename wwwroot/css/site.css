@@ -1,0 +1,30 @@
+/*Write all of your CSS here*/
+.navbar {
+    border-radius: 0px;
+}
+
+.nav-logout {
+    margin: auto;
+    padding: 10px 0 10px;
+}
+
+label {
+    width: 135px;
+    text-align: left;
+    /*display: block;*/
+}
+
+input[type=text], input[type=textarea], input[type=password] {
+    width: 135px;
+    margin-bottom: 15px;
+    text-align: left;
+    background-color: none;
+}
+
+input[type=submit] {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
