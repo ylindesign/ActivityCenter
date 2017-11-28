@@ -77,8 +77,8 @@ Note: Green text only lasts through one redirect. Goes away on refresh.
 ![Logout](screenshots/DojoActivity_13_1870x975_Logout.png?raw=true "Logout")
 
 
-#Room for Improvement
-• In the tight time frame, I couldn't optimize my error messages as I would have liked. The form erases user input after a failed submit. I tackled this issue in another project <Will Insert Link Here Once on GitHub>.
-• Cannot make an event on the same day. But who makes last minute plans these days?
-• Should show Active page on the Nav Bar.
-• Better UI/UX.
+# Room for Improvement
+1. In the tight time frame, I couldn't optimize my error messages as I would have liked. The form erases user input after a failed submit. I tackled this issue in another project //Will Insert Link Here Once on GitHub.
+2. Cannot make an event on the same day. But who makes last minute plans these days?
+3. Should show Active page on the Nav Bar.
+4. Better UI/UX.
