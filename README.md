@@ -1,9 +1,5 @@
 # ActivityCenter (AC)
-My final exam project for Coding Dojo's C#/.NET Core course shows understanding of Login/Registration, making Database Queries, using Session, Routing, and general HTML/CSS (experimented w/ Bootstrap for this project).
-
-Time Frame: 4.5 hours
-
-Note: Some features were built prior to start of exam.
+Built a C#/.NET Core web page application that allows users to create and join activities with the click of a button. Shows proficiency of Login/Registration, making Database Queries, using Session, Routing, and general HTML/CSS.
 
 
 # General Features
